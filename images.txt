@@ -1,1 +1,2 @@
 chromadb/chroma:latest
+datalust/seq:latest
