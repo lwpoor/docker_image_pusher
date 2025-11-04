@@ -2,3 +2,4 @@ chromadb/chroma:latest
 datalust/seq:latest
 nats
 mongodb/mongodb-community-server
+mongo:latest
