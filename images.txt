@@ -3,3 +3,4 @@ datalust/seq:latest
 nats
 mongodb/mongodb-community-server
 mongo:latest
+eclipse-mosquitto:latest
