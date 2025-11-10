@@ -4,3 +4,4 @@ nats
 mongodb/mongodb-community-server
 mongo:latest
 eclipse-mosquitto:latest
+redis
